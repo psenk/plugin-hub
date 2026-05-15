@@ -1,2 +1,3 @@
 repository=https://github.com/psenk/SithClanPlugin.git
 commit=e145738b7d647c2d0134463faadc49f33e3d3b70
+warning=This plugin submits your IP address and RSN to a 3rd-party server not controlled or verified by Runelite developers.
